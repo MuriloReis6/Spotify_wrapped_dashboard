@@ -9,3 +9,5 @@ MAYENE MOURA DASILVA- RM 564624 MURILO CANÉSTRI DOS REIS - RM 564053
 requerimentos para rodar o codigo na IDE:
 pip install streamlit plotly pandas openpyxl statsmodels
 streamlit run dashboardnew.py
+
+https://spotifywrappedashboard.streamlit.app/
